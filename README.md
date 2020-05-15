@@ -9,3 +9,13 @@ Below are links to the tutorials/libraries/example code that I integrated into m
 [Facial Landmark Detection Tutorial](https://www.pyimagesearch.com/2017/04/17/real-time-facial-landmark-detection-opencv-python-dlib/)
 
 [Facial Recognition Library (and example code)](https://github.com/ageitgey/face_recognition)
+
+[Head Pose Estimation](https://www.learnopencv.com/head-pose-estimation-using-opencv-and-dlib/)
+
+[OpenCV Camera Calibration](https://opencv-python-tutroals.readthedocs.io/en/latest/py_tutorials/py_calib3d/py_calibration/py_calibration.html)
+
+[Raspberry Pi - Arduino Serial Communication](https://roboticsbackend.com/raspberry-pi-arduino-serial-communication/)
+
+[Alexa Raspberry Pi Communication Library](https://github.com/kakopappa/sinric)
+
+[Hall Effect Encoder Code](https://www.youtube.com/watch?v=u2uJMJWsfsg)
