@@ -1,7 +1,7 @@
 # M-M_Launcher
 ![M&M_Launcher](https://github.com/hamac2003/M-M_Launcher/blob/master/cover.png "cover")
 
-This is the code for my [fully automated M&M candy launcher.](https://youtu.be/hsGhCl0y1FY) I apologize in advance for my sloppy uncommented code.
+This is the code for my [fully automated M&M candy launcher.](https://youtu.be/hsGhCl0y1FY) I apologize in advance for my sloppy and uncommented code.
 
 # References / Credits
 Below are links to example code and/or libraries that I integrated into my project.
