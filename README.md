@@ -1,5 +1,5 @@
 # M-M_Launcher
-![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
+![alt text](https://github.com/https://github.com/hamac2003/M-M_Launcher/cover.PNG "cover")
 
 This is the code for my [fully automated M&M candy launcher.](https://youtu.be/hsGhCl0y1FY) I apologize in advance for my sloppy uncommented code.
 
