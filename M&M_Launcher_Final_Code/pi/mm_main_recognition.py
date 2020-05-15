@@ -14,6 +14,10 @@ from loguru import logger
 from sinric import Sinric
 import argparse
 
+# Author: Harrison McIntyre
+# Last Updated: 5.15.2020
+# Contact: hamac2003@gmail.com
+
 ### References / Credits
 
 # Below are links to example code and/or libraries that I integrated into this script.
