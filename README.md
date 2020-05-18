@@ -3,6 +3,8 @@
 
 This is the code for my [fully automated M&M candy launcher.](https://youtu.be/hsGhCl0y1FY) I apologize in advance for my sloppy and uncommented code.
 
+You can find some of the 3d printed parts I designed for my machine in the STLs folder. Take note that this folder does not contain all of the 3d printed parts you need to build your own M&M shooter, just the majority of the key components.
+
 # References / Credits
 Below are links to example code and/or libraries that I integrated into my project.
 
